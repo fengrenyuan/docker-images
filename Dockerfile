@@ -1,1 +1,1 @@
-FROM gcr.io/google-samples/microservices-demo/currencyservice:v0.2.0
+FROM gcr.io/google-samples/microservices-demo/shippingservice:v0.2.0
