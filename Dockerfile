@@ -1,1 +1,1 @@
-FROM gcr.io/google-samples/microservices-demo/checkoutservice:v0.2.0
+FROM gcr.io/google-samples/microservices-demo/recommendationservice:v0.2.0
